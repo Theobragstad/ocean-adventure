@@ -6,5 +6,4 @@ Run: ./a.out
 
 Ideas for future improvements:  
 -allow player to start from a saved game  
--allow player to set map size  
 -verify cross-platform visibility  
