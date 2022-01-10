@@ -6,4 +6,3 @@ Run: ./a.out
 
 Ideas for future improvements:  
 -allow player to start from a saved game  
--verify cross-platform visibility  
