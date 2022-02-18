@@ -7,6 +7,8 @@
 #include "Inventory.h"
 #include "Boat.h" 
 
+#include <limits>
+
 class Game {
     private:
         Map map;
