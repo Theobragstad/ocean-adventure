@@ -5,7 +5,7 @@ CSCI 1300 Final project (fall 2021)
 Used as an in-class example by professors for the following semester.  
 
 Compile (all files must be in same directory):   
-g++ -std=c++17 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp project3.cpp  
+g++ -std=c++17 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp  
 
 Run:   
 ./a.out
