@@ -1,8 +1,7 @@
 # ocean adventure
 
-Terminal-based exploration/adventure game.  
-CSCI 1300 Final project (fall 2021)    
-Used as an in-class example by professors for the following semester.  
+Text (terminal)-based exploration/adventure game.  
+This game helped me learn the basics of C++.
 
 Compile (all files must be in same directory):   
 g++ -std=c++17 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp  
