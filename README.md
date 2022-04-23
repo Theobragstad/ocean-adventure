@@ -4,6 +4,7 @@ Text/terminal-based exploration/adventure game.
 This game helped me learn the basics of C++ as well as basic game design and mechanics such as game probabilities.
 
 To compile (all files must be in same directory): g++ -std=c++17 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp  
+  
 To run: ./a.out
 
 Game screenshots:  
