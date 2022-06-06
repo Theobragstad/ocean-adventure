@@ -1,7 +1,7 @@
 # ocean adventure
 
 text/terminal-based exploration/adventure game  
-this game helped me learn the basics of C++ as well as basic game design and mechanics such as game probabilities.
+this game helped me learn the basics of C++ as well as basic game design and mechanics such as game probabilities/events.
 
 compile: g++ -std=c++17 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp  
 run: ./a.out
