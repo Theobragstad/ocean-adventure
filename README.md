@@ -1,9 +1,9 @@
 # ocean adventure
 
-text/terminal-based exploration/adventure game  
-this game helped me learn the basics of C++ as well as basic game design and mechanics such as game probabilities/events.
+ascii terminal-based exploration/adventure game  
+developing this game gave me experience with C++ as well as basic game design and mechanics such as game probabilities/random events.
 
-compile: g++ -std=c++17 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp  
+compile: g++ -std=c++20 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp  
 run: ./a.out
 
 game screenshots:  
