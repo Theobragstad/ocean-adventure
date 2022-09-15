@@ -1,6 +1,6 @@
 # ocean adventure
 
-ascii terminal-based exploration/adventure game  
+terminal-based exploration/adventure/survival game  
 developing this game gave me experience with C++ as well as basic game design and mechanics such as game probabilities/random events.
 
 **compile**: g++ -std=c++20 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp    
