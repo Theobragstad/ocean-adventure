@@ -69,5 +69,5 @@ void Boat::displayBoatInfo() {
     << "Max HP: " << maxHP << endl
     << "Max water storage: " << maxWater << endl
     << "HP to move one unit: " << moveCost << endl 
-    << "Cost: 🪙: " << coinCost << "  🪵: " << woodCost << endl;
+    << "Cost: 🪙 " << coinCost << "  🪵 " << woodCost << endl;
 }
