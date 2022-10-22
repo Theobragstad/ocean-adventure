@@ -1,4 +1,4 @@
-# ocean adventure
+# ocean exploration
 
 terminal-based exploration/adventure/survival game  
 developing this game gave me experience with C++ as well as basic game design and mechanics such as game probabilities/random events.
