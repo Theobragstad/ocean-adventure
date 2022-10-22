@@ -7,7 +7,7 @@ Game::Game() {
 }
 
 void Game::start() {
-    cout << endl << "O c e a n  A d v e n t u r e!" << endl << endl
+    cout << endl << "O c e a n  E x p l o r a t i o n!" << endl << endl
     << "Enter your name: ";
     string input1;
     cin >> input1;
