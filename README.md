@@ -1,7 +1,7 @@
 # ocean exploration
 
-terminal-based exploration/adventure/survival game  
-making this game gave me experience with C++ as well as basic game design and mechanics such as game probabilities/random events.
+Terminal-based exploration/adventure/survival game  
+Building this game gave me experience with C++ as well as basic game design and mechanics such as game probabilities/random events.
 
 **compile**: g++ -std=c++20 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp    
 **run**: ./a.out
