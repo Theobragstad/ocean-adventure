@@ -1,4 +1,4 @@
-# Lost at Sea
+# Ocean Exploration 
 
 ## Terminal-based exploration/adventure/survival game 
 
