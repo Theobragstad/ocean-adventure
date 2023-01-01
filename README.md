@@ -26,3 +26,7 @@ Also, the code is designed with an emphasis on modularity of game elements, such
 **Run**: ./a.out
 
 ___
+
+
+https://user-images.githubusercontent.com/48075045/210169964-15631322-3dfb-4cba-a236-b00091c6b6e4.mp4
+
