@@ -1,8 +1,8 @@
 #include "Inventory.h"
 
 Inventory::Inventory() {
-    numCoins = 10; 
-    numWood = 10; 
+    numCoins = 2; 
+    numWood = 3; 
 
     // call read functions to initialize animal and boat arrays
     readAnimals("animalInfo.txt", animals);
@@ -270,8 +270,11 @@ void Inventory::buyBoat() {
         }
         // if the player doesn't have enough materials to buy the boat they selected
         else {
+            if((numCoins < availableBoats.at(input1).getCoinCost()) || (numWood < availableBoats.at(input1).getWoodCost())) {
+                cout << "You need ";
+            }
             if(numCoins < availableBoats.at(input1).getCoinCost()) {
-                cout << "You need " << availableBoats.at(input1).getCoinCost()-numCoins << " more coins ";
+                cout << availableBoats.at(input1).getCoinCost()-numCoins << " more coins ";
             }
             if(numWood < availableBoats.at(input1).getWoodCost()) {
                 cout << "and " << availableBoats.at(input1).getWoodCost()-numWood << " more pieces of wood ";
