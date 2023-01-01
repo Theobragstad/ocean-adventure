@@ -18,6 +18,9 @@
 - Save your score and view previous scores
 - And more!
 
+Also, the code is designed with an emphasis on modularity of game elements, such as through dynamic file reading of information for sea creatures and boats, so additional features can be added to expand game content without needing to implement major invasive changes to the project structure or codebase.
+
+
 ### How to run:
 **Compile**: g++ -std=c++20 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp    
 **Run**: ./a.out
