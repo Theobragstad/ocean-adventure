@@ -2,7 +2,7 @@
 
 ## Terminal-based exploration/adventure/survival game 
 
-**Building this game gave me experience with C++ and object-oriented-programming as well as basic game design and mechanics such as game probabilities and random events.**
+**Building this game gave me additional experience with C++ and object-oriented-programming as well as basic game design and mechanics such as game probabilities and random events.**
 
 ### Primary features:
 - You are lost at sea!
