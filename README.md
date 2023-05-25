@@ -22,7 +22,7 @@ Also, the code is designed with an emphasis on modularity of game elements, such
 
 
 How to run:  
-Compile: make  
+Compile: run 'make build'  
 Run: ./a.out
 
 
