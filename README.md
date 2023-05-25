@@ -1,4 +1,4 @@
-#### Ocean Exploration 
+#### Ocean Adventure 
 
 Terminal-based exploration/adventure/survival game   
 
