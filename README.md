@@ -22,7 +22,7 @@ Also, the code is designed with an emphasis on modularity of game elements, such
 
 
 How to run:  
-Compile: g++ -std=c++20 Game.cpp Inventory.cpp Player.cpp Map.cpp Boat.cpp Animal.cpp main.cpp    
+Compile: make  
 Run: ./a.out
 
 
