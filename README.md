@@ -1,4 +1,4 @@
-#### <img src="whale.png" width="60px"> Ocean Adventure 
+#### Ocean Adventure 
 
 Terminal-based adventure-survival-exploration game   
 
