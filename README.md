@@ -1,6 +1,6 @@
 #### <img src="whale.png" width="60px"> Ocean Adventure 
 
-Terminal-based exploration/adventure/survival game   
+Terminal-based adventure/survival/exploration game   
 
 Building this game gave me further/deeper experience with C++ and object-oriented-programming as well as basic game design and mechanics such as game probabilities and random event implementation.
 
