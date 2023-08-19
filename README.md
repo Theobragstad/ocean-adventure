@@ -20,5 +20,8 @@ How to run:
 - Run: ./a.out
 
 
-https://user-images.githubusercontent.com/48075045/210169964-15631322-3dfb-4cba-a236-b00091c6b6e4.mp4
+
+
+
+https://github.com/Theobragstad/ocean-adventure/assets/48075045/3c2c3007-116e-4267-b323-f0885977ff2a
 
