@@ -17,7 +17,7 @@ Primary features:
 
 How to run:  
 - Compile: run 'make build'  
-- Run: ./a.out
+- Run: ./ocean-adv
 
 
 
