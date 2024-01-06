@@ -6,7 +6,6 @@ Building this game gave me further/deeper experience with C++ and object-oriente
 https://github.com/Theobragstad/ocean-adventure/assets/48075045/3c2c3007-116e-4267-b323-f0885977ff2a
 
 ___
-___
 
 ### Primary features:  
 - You're lost at sea. Explore an ocean map with islands and try to survive until you're rescued.
