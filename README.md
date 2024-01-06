@@ -1,10 +1,11 @@
 #### Ocean Adventure 
 
 Terminal-based adventure-survival-exploration game   
-
+___
 Building this game gave me further/deeper experience with C++ and object-oriented-programming as well as basic game design and mechanics such as game probabilities and random event implementation.
+___
 
-Primary features:  
+### Primary features:  
 - You're lost at sea. Explore an ocean map with islands and try to survive until you're rescued.
 - Fish for a variety of sea creatures in water, or search for resources like water and wood on land.
 - Find coins to upgrade your boat to improve its performance and catch larger animals.
@@ -14,8 +15,9 @@ Primary features:
 - Learn about animals you might encounter.
 - Keep track of your food and supplies in your inventory.
 - Save your score and view previous scores.
+___
 
-How to run:  
+### How to run:  
 - Compile: make build 
 - Run: ./ocean-adv
 
