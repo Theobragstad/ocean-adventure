@@ -18,8 +18,8 @@ ___
 ___
 
 ### How to run:  
-- Compile: make build 
-- Run: ./ocean-adv
+- Compile: `make build` 
+- Run: `./ocean-adv`
 
 
 
