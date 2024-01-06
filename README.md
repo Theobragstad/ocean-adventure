@@ -1,8 +1,11 @@
 #### Ocean Adventure 
 
-Terminal-based adventure-survival-exploration game   
-___
+### Terminal-based adventure-survival-exploration game   
 Building this game gave me further/deeper experience with C++ and object-oriented-programming as well as basic game design and mechanics such as game probabilities and random event implementation.
+
+https://github.com/Theobragstad/ocean-adventure/assets/48075045/3c2c3007-116e-4267-b323-f0885977ff2a
+
+___
 ___
 
 ### Primary features:  
@@ -25,5 +28,4 @@ ___
 
 
 
-https://github.com/Theobragstad/ocean-adventure/assets/48075045/3c2c3007-116e-4267-b323-f0885977ff2a
 
